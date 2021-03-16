@@ -12,5 +12,6 @@ package examen;
 public class Examen_JosepPla {
     public static void main(String[]args){
         System.out.println("Me llamo Josep y estoy haciendo el examen de la UD4");
+        System.out.println("Voy a aprobar el examen");
     }
 }
